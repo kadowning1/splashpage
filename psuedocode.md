@@ -1,0 +1,1 @@
+- The goal is to create an Above the Fold entrance to your portfolio that helps tell users about you while keeping them on your site. Don't forget that users should still be able to scroll down to see more, and click around to visit other pages.
